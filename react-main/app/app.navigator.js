@@ -53,7 +53,8 @@ return (
             <Stack.Screen options={{headerTitle: 'Test', headerShown: false}}name ='Recipescreen' component={Recipescreen}/>
             <Stack.Screen options={{headerTitle: 'Test', headerShown: false}}name ='Exercisescreen' component={Exercisescreen}/>
             <Stack.Screen options={{headerTitle: 'Test', headerShown: false}}name ='Gymsc' component={Exerscreen}/>
-<Stack.Screen options={{headerTitle: 'Test', headerShown: false}}name ='BMI' component={Bmiscreen}/>
+            <Stack.Screen options={{headerTitle: 'Test', headerShown: false}}name ='Sensorscreen' component={Sensorscreen}/>
+            <Stack.Screen options={{headerTitle: 'Test', headerShown: false}}name ='BMI' component={Bmiscreen}/>
             
             
 
